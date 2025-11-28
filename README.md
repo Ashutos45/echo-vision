@@ -24,7 +24,7 @@ pip install pillow
 # optional for audio output
 pip install pyttsx3
 
-
+```
 ## ▶️ How to Use
 Run object detection on an image
 ```
