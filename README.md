@@ -27,8 +27,9 @@ pip install pyttsx3
 
 ## ▶️ How to Use
 Run object detection on an image
+```
 python detect.py --image example.jpg
-
+```
 Run real-time webcam detection
 ```
 python detect.py --webcam
