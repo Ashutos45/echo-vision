@@ -37,4 +37,3 @@ python detect.py --webcam
 Run webcam detection with audio
 ```
 python detect.py --webcam --audio
-```
